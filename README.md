@@ -1,1 +1,1 @@
-# grievance-admin-portal
+# admin-portal
